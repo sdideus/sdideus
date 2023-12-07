@@ -1,0 +1,5 @@
+- 👋 Olá, sou @sdideus
+- 👀 Gosto muito de aplicações Web, com boa usabilidade e desempenho. Atuo diariamente com C#, JavaScript, jQuery, SQL Server, MongoDb, Redis, AWS, Jenkins, PowerShell
+- 🌱 Estou estudando: React, Angular e outros frameworks de FrontEnd
+- 💞️ Procuro colaborar com projetos da comunidade Open Souce
+- 📫 Contate-me através do email [sdideus@outlook.com] / [instagram.com/sdideus]
